@@ -1,7 +1,3 @@
 Fabien Rozar
 Wissam Abasse
-git status                    # vérifie que authors.txt est modifié
-git diff                      # voir ce que tu as changé
-git add authors.txt
-git commit -m "Ajoute Prénom Nom aux auteurs"
-git push
+
